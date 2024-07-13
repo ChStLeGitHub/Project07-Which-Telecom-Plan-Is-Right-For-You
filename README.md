@@ -1,4 +1,4 @@
-# Project 07: Introduction to Machine Learning
+# Project 07: Which Telecom Plan Is Right For You?
  
 **Objective:** To develop a machine learning model that can accurately predict for subscribers to the mobile carrier Megaline which of the two new plans (Smart or Ultra) they should switch to based on their phone and internet usage.
 
